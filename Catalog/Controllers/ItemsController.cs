@@ -1,10 +1,9 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Catalog.Entities;
 using Catalog.Extensions;
-using Catalog.ItemDTOS;
+using Catalog.DTOs;
 using Catalog.Repositories;
 using Microsoft.AspNetCore.Mvc;
 

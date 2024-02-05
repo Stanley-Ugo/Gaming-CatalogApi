@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Catalog
+namespace Catalog.DTOs
 {
     public record CreateItemDTO
     {

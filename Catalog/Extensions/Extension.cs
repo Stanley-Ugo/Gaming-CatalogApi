@@ -1,5 +1,5 @@
 using Catalog.Entities;
-using Catalog.ItemDTOS;
+using Catalog.DTOs;
 
 namespace Catalog.Extensions
 {
