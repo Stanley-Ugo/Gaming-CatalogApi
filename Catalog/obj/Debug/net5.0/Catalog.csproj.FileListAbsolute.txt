@@ -40,3 +40,4 @@ C:\Projects\MicroserviceProjects\Gaming-CatalogApi\Catalog\bin\Debug\net5.0\Shar
 C:\Projects\MicroserviceProjects\Gaming-CatalogApi\Catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
 C:\Projects\MicroserviceProjects\Gaming-CatalogApi\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
 C:\Projects\MicroserviceProjects\Gaming-CatalogApi\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Projects\MicroserviceProjects\Gaming-CatalogApi\Catalog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
