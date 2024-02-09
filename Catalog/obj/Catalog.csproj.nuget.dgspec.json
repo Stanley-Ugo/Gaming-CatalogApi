@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj": {}
+    "c:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj": {
+    "c:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "c:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj",
+        "projectPath": "c:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\obj\\",
+        "outputPath": "c:\\Projects\\MicroserviceProjects\\Gaming-CatalogApi\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

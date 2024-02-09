@@ -1,0 +1,9 @@
+global using Xunit;
+global using System;
+global using Moq;
+global using FluentAssertions;
+global using Microsoft.Extensions.Logging;
+global using Catalog.Controllers;
+global using Catalog.Entities;
+global using Catalog.Repositories;
+global using Microsoft.AspNetCore.Mvc;
