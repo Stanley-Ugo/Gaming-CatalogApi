@@ -5,5 +5,6 @@ global using FluentAssertions;
 global using Microsoft.Extensions.Logging;
 global using Catalog.Controllers;
 global using Catalog.Entities;
+global using Catalog.DTOs;
 global using Catalog.Repositories;
 global using Microsoft.AspNetCore.Mvc;
