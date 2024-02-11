@@ -42,6 +42,27 @@ public class ItemsControllerTest
             expectedItem,
             options => options.ComparingByMembers<Item>());
     }
+    
+    [Fact]
+    public async Task GetItemsAsync_WithExistingItem_ReturnsAllItem()
+    {
+        //Arrange
+        var expectedItem = new[]{ CreateRandonItem(), CreateRandonItem(), CreateRandonItem() };
+
+        respositoryStub.Setup(repo => repo.GetItemsAsync())
+                   .ReturnsAsync(expectedItem);
+
+        var controller = new ItemsController(respositoryStub.Object, loggerStub.Object);
+
+        //Act
+        var actualItems = await controller.GetItemsAsync();
+
+        //Assert
+        actualItems.Should().BeEquivalentTo(
+            existingItem,
+            options => options.ComparingByMembers<Item>());
+    }
+
 
     private Item CreateRandonItem()
     {
